@@ -1,10 +1,11 @@
 # 083205004013_NguyenHoHoangPhuc_Baitap1
-## câu 1: Sau khi học xong môn học tôi muốn:  
+## câu 1:   
+### Sau khi học xong môn học tôi muốn:  
     - Tạo ra một phần mềm di động.  
     - Tìm hiểu xem lĩnh vực này có phù hợp với bản thân hay không.    
 
-## câu 2: Trong tương lai 10 năm tới lập trình di động có tiềm lực phát triển do 
-sự ảnh hưởng của điện thoại di động này càng lớn đối với đời sống con người.  
+## câu 2: 
+### Trong tương lai 10 năm tới lập trình di động có tiềm lực phát triển do sự ảnh hưởng của điện thoại di động này càng lớn đối với đời sống con người.  
   
 ## câu 3:  
 ### Mô tả:  
